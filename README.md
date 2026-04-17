@@ -1,5 +1,12 @@
 # 💫 About Me:
-📡i'm currently working on social media ads<br>✨I'm looking to collaborate on web dev't and Graphics design<br>👁I'm looking for help with telegram web checking it appearance before hosting and deploying it into browser.<br>🤖I'm currently learning telegram bot,Chatbot,API.<br>☝️Ask me about Web design and Graphics design, telegram bot functions<br>⚡️ fact i'm laze but smart guy!😁
+
+📡 I'm currently working on **Mobile App Development, Web Development, and UI/UX Design**
+🚀 I'm looking to collaborate on **Android Apps, Laravel Projects, and Creative Digital Products**
+📱 I'm looking for help with **scalable app architecture, deployment, and backend integration**
+🤖 I'm currently learning **Android Development, Firebase, APIs, and modern software engineering**
+💡 Ask me about **Mobile Apps, Web Design, Graphic Design, and Tech Projects**
+⚡ Fun fact: I'm calm, creative, and always building something new 😁
+
 
 
 ## 🌐 Socials:
